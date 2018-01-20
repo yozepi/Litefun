@@ -1,0 +1,17 @@
+{
+  "name": "lightfun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Cleland",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
